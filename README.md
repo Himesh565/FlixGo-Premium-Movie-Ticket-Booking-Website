@@ -1,6 +1,5 @@
 # 🎬 FlixGo - Premium Movie Ticket Booking Website
 
-![FlixGo Banner](https://via.placeholder.com/1200x400?text=FlixGo+Banner)
 
 > **Experience Cinema Like Never Before.**  
 > A full-stack MERN application for booking movie tickets with a premium, glassmorphism-inspired UI and a comprehensive admin dashboard.
@@ -169,18 +168,6 @@ cd frontend
 npm run dev
 # App runs on http://localhost:5173
 ```
-
----
-
-## 📸 Screenshots
-
-| Home Page | Booking Page |
-|:---:|:---:|
-| ![Home]([frontend/public/favicon.svg)) | ![Booking](https://via.placeholder.com/400x200?text=Seat+Selection) |
-
-| Admin Dashboard | Admin Shows |
-|:---:|:---:|
-| ![Dashboard](https://via.placeholder.com/400x200?text=Admin+Dashboard) | ![Shows](https://via.placeholder.com/400x200?text=Admin+Shows) |
 
 ---
 
