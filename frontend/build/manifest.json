@@ -1,0 +1,16 @@
+{
+  "short_name": "FlixGo",
+  "name": "FlixGo - Movie Ticket Booking",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#667eea",
+  "background_color": "#764ba2",
+  "description": "Your ultimate destination for movie ticket booking"
+}
