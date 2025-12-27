@@ -176,7 +176,7 @@ npm run dev
 
 | Home Page | Booking Page |
 |:---:|:---:|
-| ![Home](https://via.placeholder.com/400x200?text=Home+Page) | ![Booking](https://via.placeholder.com/400x200?text=Seat+Selection) |
+| ![Home]([https://via.placeholder.com/400x200?text=Home+Page](https://unexpected-aqua-tskzgv11rl-v5g933xnaf.edgeone.app/avatar_fire_and_ash%20poster.jpg)) | ![Booking](https://via.placeholder.com/400x200?text=Seat+Selection) |
 
 | Admin Dashboard | Admin Shows |
 |:---:|:---:|
