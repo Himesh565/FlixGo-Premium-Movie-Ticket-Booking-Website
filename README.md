@@ -3,7 +3,6 @@
 
 > **Experience Cinema Like Never Before.**  
 > A full-stack MERN application for booking movie tickets with a premium, glassmorphism-inspired UI and a comprehensive admin dashboard.
-
 ---
 
 ## 📋 Table of Contents
