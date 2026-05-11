@@ -15,7 +15,6 @@
 - [Installation](#installation)
 - [Environment Variables](#environment-variables)
 - [Running the Project](#running-the-project)
-- [Screenshots](#screenshots)
 
 ---
 
